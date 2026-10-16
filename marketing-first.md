@@ -1,21 +1,10 @@
-Lộ trình Marketing cơ bản
+_NHỮNG DÒNG CHỮ ĐẦU TIÊN CỦA PHAN THÀNH (BABYZIT) NOTE LẠI VỀ MARKETING MANAGEMENT_
 
-Giai đoạn 1: Hiểu nền tảng (khoảng 2-4 tuần)
+# Marketing là gì? Phân biệt với Bán hàng và Quảng cáo
+<mark>Chào Thành, mình sẽ trình bày theo cách một giảng viên hướng dẫn sinh viên mới vào ngành: từ định nghĩa học thuật, đến tư duy nền tảng, rồi mới phân biệt ba khái niệm hay bị nhầm lẫn</mark>
 
-Marketing là gì, khác gì với bán hàng và quảng cáo
-Nhu cầu, mong muốn, giá trị khách hàng
-Phân khúc thị trường, thị trường mục tiêu, định vị (STP)
-Marketing Mix 4P (Product, Price, Place, Promotion), mở rộng thành 7P với dịch vụ
-(lưu ý và tìm hiểu thêm về 4P và 7P)
-Hành vi người tiêu dùng và hành trình khách hàng (customer journey)
+## 1. Định nghĩa Marketing
+- Marketing không có một định nghĩa duy nhất. Hai định nghĩa kinh điển nên nắm:
+Philip Kotler (cha đẻ marketing hiện đại): Marketing là quá trình mà doanh nghiệp tạo ra giá trị cho khách hàng và xây dựng mối quan hệ bền vững với họ, để đổi lại nhận được giá trị từ khách hàng (doanh thu, lợi nhuận, lòng trung thành). Ông cũng có cách nói ngắn gọn hơn: marketing là đáp ứng nhu cầu một cách có lợi nhuận.
 
-Giải thích khái niệm marketing và phân biệt với bán hàng, quảng cáo.
-Marketing là gì? Phân biệt với Bán hàng và Quảng cáo
-
-Chào Thành, mình sẽ trình bày theo cách một giảng viên hướng dẫn sinh viên mới vào ngành: từ định nghĩa học thuật, đến tư duy nền tảng, rồi mới phân biệt ba khái niệm hay bị nhầm lẫn.
-
-| Tiêu chí | Marketing | Bán hàng | Quảng cáo |
-|---|---|---|---|
-| Mục tiêu | Hiểu và tạo giá trị cho khách hàng | Chốt đơn, tạo doanh thu | Thu hút sự chú ý |
-| Phạm vi | Rộng, bao gồm cả hai cái còn lại | Hẹp, tập trung vào giao dịch | Là một công cụ của marketing |
-| Thời gian | Dài hạn | Ngắn hạn | Theo chiến dịch |
+Hiệp hội Marketing Mỹ (AMA): Marketing là hoạt động, tập hợp các thiết chế và quy trình nhằm sáng tạo, truyền thông, phân phối và trao đổi những thứ có giá trị đối với khách hàng, đối tác và xã hội nói chung.

@@ -17,3 +17,7 @@ Hiệp hội Marketing Mỹ (AMA): Marketing là hoạt động, tập hợp cá
 | **Quan hệ (relationship)** | Mục tiêu dài hạn là giữ chân khách hàng, không phải một giao dịch lẻ |
 | **Lợi nhuận và xã hội** | Doanh nghiệp tồn tại bằng lợi nhuận, nhưng không được tách rời lợi ích xã hội |
 
+> [!TIP]
+> Peter Drucker nói một ý rất đáng nhớ: mục tiêu của marketing là hiểu khách hàng sâu đến mức việc bán hàng gần như trở nên thừa. Sản phẩm phù hợp thì tự “khớp” với khách hàng.
+
+

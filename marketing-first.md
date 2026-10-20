@@ -20,4 +20,18 @@ Hiệp hội Marketing Mỹ (AMA): Marketing là hoạt động, tập hợp cá
 > [!TIP]
 > Peter Drucker nói một ý rất đáng nhớ: mục tiêu của marketing là hiểu khách hàng sâu đến mức việc bán hàng gần như trở nên thừa. Sản phẩm phù hợp thì tự “khớp” với khách hàng.
 
+## 2. Marketing là triết lý quản trị, không chỉ là một phòng ban
+**Đây là điểm quan trọng nhất ở bậc đại học và là điều hầu hết người ngoài ngành không biết. Kotler mô tả 5 quan điểm mà doanh nghiệp có thể theo đuổi:**
+1. Quan điểm sản xuất: “Sản xuất nhiều, giá rẻ, khách sẽ mua.” Phù hợp khi cung nhỏ hơn cầu.
+2. Quan điểm sản phẩm: “Làm sản phẩm thật tốt, khách sẽ tìm đến.” Rủi ro là rơi vào cận thị marketing.
+3. Quan điểm bán hàng: “Phải thúc đẩy bán, khách mới mua.” Tập trung đẩy hàng đã sản xuất xong.
+4. Quan điểm marketing: “Tìm hiểu khách cần gì, rồi làm ra thứ đáp ứng họ tốt hơn đối thủ.”
+5. Quan điểm marketing xã hội: Như quan điểm 4, nhưng cân nhắc thêm lợi ích dài hạn của xã hội và môi trường.
 
+_Cận thị marketing (Theodore Levitt, 1960) là một bài viết kinh điển: các hãng đường sắt Mỹ suy tàn vì tự coi mình kinh doanh “đường sắt” thay vì kinh doanh “vận tải”. Họ nhìn sản phẩm mà không nhìn nhu cầu, nên bị ô tô và hàng không thay thế._
+
+**Điểm khác biệt cốt lõi:**
+Bán hàng đi từ trong ra ngoài: có sản phẩm, rồi đi tìm cách bán.
+Marketing đi từ ngoài vào trong: hiểu thị trường và khách hàng trước, rồi mới quyết định làm gì.
+
+## 3. So sánh Marketing, Bán hàng và Quảng cáo
